@@ -1,1 +1,1 @@
-# Pythagorean-Theorem-GUI
+I created a GUI that will use a radiobutton to allow the user to choose between solving for the hypotenuse or a leg. Then the user will enter the 2 side lengths they have and click a button to solve for the third side.
